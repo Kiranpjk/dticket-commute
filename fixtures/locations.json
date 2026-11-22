@@ -1,0 +1,17 @@
+[
+ {
+  "type": "stop",
+  "id": "900010",
+  "name": "Jena Paradies (demo)"
+ },
+ {
+  "type": "stop",
+  "id": "900011",
+  "name": "Erfurt Hbf (demo)"
+ },
+ {
+  "type": "stop",
+  "id": "900012",
+  "name": "Göttingen (demo)"
+ }
+]

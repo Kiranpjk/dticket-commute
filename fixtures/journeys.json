@@ -1,0 +1,233 @@
+{
+ "journeys": [
+  {
+   "type": "journey",
+   "legs": [
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900010",
+      "name": "Jena Paradies (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "plannedDeparture": "2026-11-24T06:12:00+01:00",
+     "departure": "2026-11-24T06:14:00+01:00",
+     "departureDelay": 120,
+     "plannedArrival": "2026-11-24T06:58:00+01:00",
+     "arrival": "2026-11-24T07:02:00+01:00",
+     "arrivalDelay": 240,
+     "line": {
+      "type": "line",
+      "name": "RE 3",
+      "product": "regional",
+      "mode": "train"
+     }
+    },
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "walking": true,
+     "distance": 120,
+     "departure": null,
+     "arrival": null
+    },
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900012",
+      "name": "G\u00f6ttingen (demo)"
+     },
+     "plannedDeparture": "2026-11-24T07:04:00+01:00",
+     "departure": "2026-11-24T07:04:00+01:00",
+     "departureDelay": 0,
+     "plannedArrival": "2026-11-24T08:52:00+01:00",
+     "arrival": "2026-11-24T08:52:00+01:00",
+     "arrivalDelay": 0,
+     "line": {
+      "type": "line",
+      "name": "RE 2",
+      "product": "regional",
+      "mode": "train"
+     }
+    }
+   ]
+  },
+  {
+   "type": "journey",
+   "legs": [
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900010",
+      "name": "Jena Paradies (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "plannedDeparture": "2026-11-24T06:42:00+01:00",
+     "departure": null,
+     "departureDelay": null,
+     "plannedArrival": "2026-11-24T07:28:00+01:00",
+     "arrival": null,
+     "arrivalDelay": null,
+     "line": {
+      "type": "line",
+      "name": "RB 20",
+      "product": "regional",
+      "mode": "train"
+     },
+     "cancelled": true
+    },
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900012",
+      "name": "G\u00f6ttingen (demo)"
+     },
+     "plannedDeparture": "2026-11-24T07:40:00+01:00",
+     "departure": "2026-11-24T07:40:00+01:00",
+     "departureDelay": 0,
+     "plannedArrival": "2026-11-24T09:30:00+01:00",
+     "arrival": "2026-11-24T09:30:00+01:00",
+     "arrivalDelay": 0,
+     "line": {
+      "type": "line",
+      "name": "RE 2",
+      "product": "regional",
+      "mode": "train"
+     }
+    }
+   ]
+  },
+  {
+   "type": "journey",
+   "legs": [
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900010",
+      "name": "Jena Paradies (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "plannedDeparture": "2026-11-24T07:12:00+01:00",
+     "departure": "2026-11-24T07:12:00+01:00",
+     "departureDelay": 0,
+     "plannedArrival": "2026-11-24T07:58:00+01:00",
+     "arrival": "2026-11-24T07:59:00+01:00",
+     "arrivalDelay": 60,
+     "line": {
+      "type": "line",
+      "name": "RE 3",
+      "product": "regional",
+      "mode": "train"
+     }
+    },
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900012",
+      "name": "G\u00f6ttingen (demo)"
+     },
+     "plannedDeparture": "2026-11-24T08:10:00+01:00",
+     "departure": "2026-11-24T08:10:00+01:00",
+     "departureDelay": 0,
+     "plannedArrival": "2026-11-24T09:58:00+01:00",
+     "arrival": "2026-11-24T10:01:00+01:00",
+     "arrivalDelay": 180,
+     "line": {
+      "type": "line",
+      "name": "RE 2",
+      "product": "regional",
+      "mode": "train"
+     }
+    }
+   ]
+  },
+  {
+   "type": "journey",
+   "legs": [
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900010",
+      "name": "Jena Paradies (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "plannedDeparture": "2026-11-24T07:42:00+01:00",
+     "departure": "2026-11-24T07:49:00+01:00",
+     "departureDelay": 420,
+     "plannedArrival": "2026-11-24T08:28:00+01:00",
+     "arrival": "2026-11-24T08:37:00+01:00",
+     "arrivalDelay": 540,
+     "line": {
+      "type": "line",
+      "name": "RB 20",
+      "product": "regional",
+      "mode": "train"
+     }
+    },
+    {
+     "origin": {
+      "type": "stop",
+      "id": "900011",
+      "name": "Erfurt Hbf (demo)"
+     },
+     "destination": {
+      "type": "stop",
+      "id": "900012",
+      "name": "G\u00f6ttingen (demo)"
+     },
+     "plannedDeparture": "2026-11-24T08:33:00+01:00",
+     "departure": "2026-11-24T08:33:00+01:00",
+     "departureDelay": 0,
+     "plannedArrival": "2026-11-24T10:21:00+01:00",
+     "arrival": "2026-11-24T10:21:00+01:00",
+     "arrivalDelay": 0,
+     "line": {
+      "type": "line",
+      "name": "RE 2",
+      "product": "regional",
+      "mode": "train"
+     }
+    }
+   ]
+  }
+ ]
+}
